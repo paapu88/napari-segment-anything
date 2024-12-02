@@ -27,7 +27,7 @@ jobs:
         include:
           - platform: windows-latest
             python-version: '3.12'
-          - platform: macos-latest
+          - platform: macos-13
             python-version: '3.12'
 
     steps:
